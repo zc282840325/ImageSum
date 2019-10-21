@@ -1,0 +1,10 @@
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\bin\Debug\ImageSum.exe.config
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\bin\Debug\ImageSum.exe
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\bin\Debug\ImageSum.pdb
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.csprojAssemblyReference.cache
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.Form1.resources
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.Properties.Resources.resources
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.csproj.GenerateResource.cache
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.csproj.CoreCompileInputs.cache
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.exe
+D:\WorkSpace\StudentsWord\ImageSum\ImageSum\obj\Debug\ImageSum.pdb
